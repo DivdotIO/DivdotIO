@@ -1,15 +1,15 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Tapesh%20Chavle&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Java%20Spring%20Boot%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Divyanshu%20Sinha&fontSize=45&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Passionate+Backend+Engineer;Data+Structure+%26+Algorithms+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Passionate+Backend+Engineer;Data+Structure+%26+Algorithms+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <a href="https://github.com/DivdotIO">
-    <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=DivdotIO&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
   </a>
 </div>
 
@@ -18,16 +18,16 @@
 <!-- Social Media Links -->
 <div align="center">
   <h3>Let's Connect 👋</h3>
-  <a href="https://www.linkedin.com/in/tapesh-chavle-48656b23a/">
+  <a href="www.linkedin.com/in/divyanshu-sinha-5935a92a6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tapeshchawle@gmail.com">
+  <a href="mailto:divyanshu.sinha135@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/tapeshchavle">
+  <a href="https://leetcode.com/u/Divyanshu_Sinha13">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/tapeshc7nep">
+  <a href="">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
@@ -37,12 +37,11 @@
 <!-- About Me Section -->
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently working on **MicroService Architecture Based Projects**
-- 💡 I'm deeply passionate about **Java, Spring Boot, and robust Backend Development**
+- 🌱 I’m currently working on **MERN Based Projects**
+- 💡 I'm deeply passionate about **Java, JavaScript, React.js and robust Backend Development**
 - 🧠 Love solving complex challenges using **Data Structures and Algorithms**
 - 🚀 Expanding my knowledge and adapting to new technologies
 - ⚡ **Fun fact**: I love optimizing code and building highly scalable backend systems
-- ⚡ **portfolio** - <a href="https://www.tapesh.me">tapesh.me</a>
 
 <br/>
 
@@ -83,20 +82,20 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapeshchavle&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DivdotIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivdotIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DivdotIO&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapeshchavle&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivdotIO&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" width="98%" />
 </div>
 
 <br/>
@@ -104,19 +103,4 @@
 <!-- Footer Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>## Hi there 👋
-
-<!--
-**DivdotIO/DivdotIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
