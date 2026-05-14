@@ -62,8 +62,8 @@
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" /><br/><br/>
 
 **🛢️ Databases**<br/>
-<!-- <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="Databases" /><br/> -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" alt="Databases" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="Databases" /><br/><br/>
+<!-- <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" alt="Databases" /><br/><br/> -->
 <!-- <img src="https://img.shields.io/badge/pgBouncer-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgBouncer" /><br/><br/> -->
 
 <!-- **☁️ Cloud & DevOps**<br/>  -->
