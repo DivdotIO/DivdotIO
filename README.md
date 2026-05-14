@@ -55,7 +55,7 @@
 <!-- <img src="https://img.shields.io/badge/Debezium-E00000?style=for-the-badge&logo=apache&logoColor=white" alt="Debezium" />
 <img src="https://img.shields.io/badge/Jakarta_EE-005C84?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE" />
 <img src="https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" /><br/><br/> -->
-<br/><br/>
+<br/>
 
 **🎨 Frontend & Design**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&perline=10" alt="Frontend" /><br/>
@@ -63,10 +63,10 @@
 
 **🛢️ Databases**<br/>
 <!-- <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="Databases" /><br/> -->
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" alt="Databases" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" alt="Databases" /><br/><br/>
 <!-- <img src="https://img.shields.io/badge/pgBouncer-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgBouncer" /><br/><br/> -->
 
-**☁️ Cloud & DevOps**<br/>
+<!-- **☁️ Cloud & DevOps**<br/>  -->
 <!-- <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&perline=10" alt="Cloud and DevOps" /><br/> -->
 <!-- <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon ECR" /> -->
 <!-- <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" /><br/><br/> -->
@@ -74,7 +74,8 @@
 **🧰 Tools, AI & Version Control**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,idea,maven,postman&perline=10" alt="Tools" /><br/>
 <img src="https://img.shields.io/badge/Generative_AI-21A366?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" /><br/><br/>
+<!-- <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" /><br/><br/> -->
+<br/>
 
 </div>
 
